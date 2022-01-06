@@ -1,0 +1,299 @@
+[
+  {
+    "name": "EXPRESS_TRIBUNE_PK.NEWS.PAKISTAN.TEXT",
+    "label": "Headlines",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/headlines.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/express-tribune-logo.png"
+  },
+  {
+    "name": "DAWN_COM.NEWS.TOPSTORIES.TEXT",
+    "label": "Dawn",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/dawn_news.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/dawn-logo.png"
+  },
+  {
+    "name": "THENEWS_PK.NEWS.PAKISTAN.TEXT",
+    "label": "The News",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/the_news.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/the-news-white-logo.png"
+  },
+  {
+    "name": "SAMAA_TV.NEWS.TOPSTORIES.TEXT",
+    "label": "Samaa TV",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/saama.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/samaa-tv-logo.png"
+  },
+  {
+    "name": "DUNYA_NEWS.NEWS.TOPSTORIES.TEXT",
+    "label": "Dunya News",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/dunya.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/Dunya_News-logo.png"
+  },
+  {
+    "name": "AAJ_TV.NEWS.TOPSTORIES.TEXT",
+    "label": "Aaj TV",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/aaj.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/aaj-news-logo.png"
+  },
+  {
+    "name": "GNN.NEWS.TOPSTORIES.TEXT",
+    "label": "GNN",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/gnn.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/gnn.png"
+  },
+  {
+    "name": "HUM_NEWS.NEWS.TOPSTORIES.TEXT",
+    "label": "Hum News",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/hum_news.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/hum_news.png"
+  },
+  {
+    "name": "NEWS_ONE.NEWS.TOPSTORIES.TEXT",
+    "label": "News One",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/news-one.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/newsone-logo.png"
+  },
+  {
+    "name": "BBC.NEWS.WORLD.TEXT",
+    "label": "World News",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/world_news.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/bbc-world-news.png"
+  },
+  {
+    "name": "RT_COM.NEWS.TOPSTORIES.TEXT",
+    "label": "RT News",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/rt.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/RT-logo.png"
+  },
+  {
+    "name": "KHALEEJTIMES.NEWS.TOPSTORIES.TEXT",
+    "label": "Khaleej Times",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/khaleej_times.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/khaleej-times-logo.png"
+  },
+  {
+    "name": "CNN.NEWS.TOPSTORIES.TEXT",
+    "label": "CNN News",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/cnn.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/cnn-logo.png"
+  },
+  {
+    "name": "ALJAZEERA_TV.NEWS.TOPSTORIES.TEXT",
+    "label": "Aljazeera News",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/news/Al-jazeera.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/aljazeera-logo.png"
+  },
+  {
+    "name": "VCNEWS_SCORELINE.SPORTS.CRICKET.TEXT",
+    "label": "Cricket",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/sports/cricket.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/ITGN-logo.png"
+  },
+  {
+    "name": "CRICBUZZ.SPORTS.CRICKET.TEXT",
+    "label": "Cricbuzz",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/sports/cricket.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/cricbuzz-logo.png"
+  },
+  {
+    "name": "CRICINFO.SPORTS.CRICKET.PAKISTAN",
+    "label": "Cricinfo",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/sports/cricket.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/espn-cricinfo-logo.png"
+  },
+  {
+    "name": "SCORELINE.SPORTS.CRICKET.TEXT",
+    "label": "Scoreline",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/sports/cricket.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/scoreline-logo.png"
+  },
+  {
+    "name": "GUARDIAN_UK.NEWS.FOOTBALL.TEXT",
+    "label": "Football",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/sports/football.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/guardian_uk-logo.png"
+  },
+  {
+    "name": "GUARDIAN_UK.NEWS.GOLF.TEXT",
+    "label": "Golf",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/sports/golf.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/guardian_uk-logo.png"
+  },
+  {
+    "name": "GUARDIAN_UK.NEWS.TENNIS.TEXT",
+    "label": "Tennis",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/sports/tennis.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/guardian_uk-logo.png"
+  },
+  {
+    "name": "GUARDIAN_UK.NEWS.FORMULA_ONE.TEXT",
+    "label": "Formula 1",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/sports/formula_one.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/guardian_uk-logo.png"
+  },
+  {
+    "name": "SAMAA_TV.NEWS.BUSINESS.TEXT",
+    "label": "Business",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/business.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/samaa-tv-logo.png"
+  },
+  {
+    "name": "SAMAA_TV.NEWS.ENTERTAINMENT.TEXT",
+    "label": "Entertainment",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/entertainment.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/samaa-tv-logo.png"
+  },
+  {
+    "name": "POCKET_LINT.NEWS.GADGETS.TEXT",
+    "label": "Gadgets",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/lifestyle/gadget.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/pocket-lint-logo.png"
+  },
+  {
+    "name": "POCKET_LINT.NEWS.FITNESS_TRACKERS.TEXT",
+    "label": "Fitness Trackers",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/lifestyle/fitness_tracker.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/pocket-lint-logo.png"
+  },
+  {
+    "name": "GAMESPOT.GAMING.GENERAL.TEXT",
+    "label": "Gaming",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/lifestyle/gaming.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/ITGN-logo.png"
+  },
+  {
+    "name": "CAR_AND_DRIVER.NEWS.CARS.GENERAL",
+    "label": "Cars",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/lifestyle/cars.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/car-and-driver-logo.png"
+  },
+  {
+    "name": "VCNEWS_CONTENT.FASHION.CONTEMPORARY.TEXT",
+    "label": "Fashion",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/lifestyle/fashion.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/ITGN-logo.png"
+  },
+  {
+    "name": "VCNEWS_CONTENT.BEAUTY.GENERAL.TEXT",
+    "label": "Beauty",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/lifestyle/beauty.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/ITGN-logo.png"
+  },
+  {
+    "name": "VCNEWS_CONTENT.FOOD.RESTAURANTS.TEXT",
+    "label": "Food & Restaurants",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/lifestyle/food.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/ITGN-logo.png"
+  },
+  {
+    "name": "VCNEWS_CONTENT.FOOD.RECIPE.TEXT",
+    "label": "Food Recipes",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/lifestyle/food_recipes.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/ITGN-logo.png"
+  },
+  {
+    "name": "VCNEWS_CONTENT.TRAVEL.GENERAL.TEXT",
+    "label": "Travel",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/lifestyle/travel_1.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/ITGN-logo.png"
+  },
+  {
+    "name": "VCNEWS_CONTENT.MUSIC.GENERAL.TEXT",
+    "label": "Music",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/lifestyle/music.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/ITGN-logo.png"
+  },
+  {
+    "name": "GUARDIAN_UK.NEWS.TECHNOLOGY.TEXT",
+    "label": "Technology",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/science/technology.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/guardian_uk-logo.png"
+  },
+  {
+    "name": "GUARDIAN_UK.NEWS.SCIENCE.TEXT",
+    "label": "Science",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/science/science.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/guardian_uk-logo.png"
+  },
+  {
+    "name": "PCWORLD.NEWS.COMPUTERS.TEXT",
+    "label": "Computers",
+    "linkPage": "detail",
+    "cardType": "NORMAL",
+    "image": "https://vp.vxt.net:41538/itgn/assets/imgs/icons/science/computer.png",
+    "logo": "https://vp.vxt.net:41538/itgn/assets/imgs/logos/pcworld-logo.png"
+  }
+]
+
